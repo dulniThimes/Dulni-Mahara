@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dulni Mahara</h1>
-<h3 align="center">🎓A 2nd Year Software Engineering Student @ NSBM | Exploring Frontend, UI/UX & Web Projects.</h3>
+<h3 align="center">🎓A 3rd Year Software Engineering Student @ NSBM | Exploring Frontend, UI/UX & Web Projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulnithimes&label=Profile%20views&color=0e75b6&style=flat" alt="dulnithimes" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulnithimes" alt="dulnithimes" /></a> </p>
 
-- 🔭 I’m currently working on **frontend designs and UI development for university and personal projects, including admin dashboards and responsive layouts.**
+- 🔭 I’m currently working on **frontend designs and UI development for university and personal projects.**
 
 - 🌱 I’m currently learning **backend development using Java Servlet/JSP and exploring IoT systems with basic hardware integration.**
 
